@@ -2,10 +2,10 @@
 
 ## Context
 
-We can choose between several popular server development languages.
+We can choose between several popular server development languages that we have experience with and which would be suitable for building server software.
 The newest languages offer other programming styles, such as functional programming, and other potential benefits compared to older languages.
-We believe that unless it would present a serious problem, we should choose the language and runtime that we have the most experience with.
-We also consider runtime popularity in the enterprise environments that we would like to target.
+Meanwhile, older languages such as Java offer a much richer enterprise integration ecosystem, and far wider adoption in enterprise environments.
+Also, given an existing team, the best language choice is usually the one the team has the most experience with.
 
 ## Decision
 
