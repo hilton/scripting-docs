@@ -16,5 +16,5 @@ Accepted
 
 ## Consequences
 
-Developers use HTTP in different ways, and we will have to choose an API style.
-Using HTTP may limit performance, so we may want to support other protocols in future.
+* Developers use HTTP in different ways, and we will have to choose an API style.
+* Using HTTP may limit performance, so we may want to support other protocols in future.
