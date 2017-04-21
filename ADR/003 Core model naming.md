@@ -12,7 +12,7 @@ Use programmer-centric naming based on microservices and script execution, inste
 
 ## Status
 
-Accepted
+Proposed
 
 ## Consequences
 

@@ -13,7 +13,7 @@ We will build a strand alone server with a single public network API, rather tha
 
 ## Status
 
-Accepted
+Proposed
 
 ## Consequences
 

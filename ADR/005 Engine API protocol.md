@@ -12,7 +12,7 @@ The engine API uses HTTP by default.
 
 ## Status
 
-Accepted
+Proposed
 
 ## Consequences
 

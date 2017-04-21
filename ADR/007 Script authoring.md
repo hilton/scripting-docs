@@ -14,7 +14,7 @@ Developers will use language drivers as the primary script authoring interface.
 
 ## Status
 
-Accepted
+Proposed
 
 ## Consequences
 

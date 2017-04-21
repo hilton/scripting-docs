@@ -14,7 +14,7 @@ Use JSON for the canonical script syntax.
 
 ## Status
 
-Accepted
+Proposed
 
 ## Consequences
 

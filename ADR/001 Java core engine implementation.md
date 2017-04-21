@@ -13,7 +13,7 @@ We will implement the core engine in Java.
 
 ## Status
 
-Accepted
+Proposed
 
 ## Consequences
 
