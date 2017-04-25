@@ -19,5 +19,6 @@ Proposed
 ## Consequences
 
 * This means initially focusing on programmatic script authoring, rather than declarative authoring.
-* Language drivers must include some kind of script-builder API that constructs scripts from language elements.
+* Consider a web-based editor with autocompletion and language support for IDEs and text editors.
 * Graphical or web-based editing will require additional tooling.
+* Language drivers must include some kind of script-builder API that constructs scripts from language elements.
