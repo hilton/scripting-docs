@@ -18,6 +18,7 @@ Proposed
 ## Consequences
 
 * We will have to choose a network API protocol and architectural style.
-* The network layer will impact performance and testability.
+* The network layer will impact performance and testability, which we can address with a custom test framework.
 * System developers can use a server as a separate microservice.
 * We can develop client libraries for different programming languages on an equal footing.
+* For some use cases, we will have to consider making the server available as an embedded library in the future.
