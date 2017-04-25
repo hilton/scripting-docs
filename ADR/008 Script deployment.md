@@ -18,4 +18,4 @@ Proposed
 ## Consequences
 
 * Developers will have to start the server before deploying scripts.
-* Script deployment must be idempotent, so that services using a programmatic API can always attempt to deploy without having to know if they’ve deployed before.
+* Script deployment must use idempotent commands, so that services using a programmatic API can always attempt to deploy without having to know if they’ve deployed before.
