@@ -2,7 +2,8 @@
 
 ## Context
 
-A polyglot approach will help adoption, and make the engine available to the most developers.
+Supporting multiple programming languages will help adoption, and make the engine available to the most developers.
+Moreover, language-specific client APIs can provide a better developer experience than language independent APIs.
 However, supporting multiple languages will slow down initial development.
 Developing initially for only one language risks tying the implementation to that language.
 We can prioritise the most popular languages.
@@ -13,8 +14,9 @@ Write language drivers for Java and JavaScript (i.e. ECMAScript 2017) to start w
 
 ## Status
 
-Accepted
+Proposed
 
 ## Consequences
 
-Writing driver APIs for languages both with and without static types may lead to multiple strategies for ensuring script correctness at runtime.
+* Each language driver must include APIs for script authoring, deployment, execution and testing.
+* Writing driver APIs for languages both with and without static types may lead to multiple strategies for ensuring script correctness at runtime.
