@@ -12,9 +12,9 @@ The engine API uses HTTP by default.
 
 ## Status
 
-Proposed
+Approved
 
 ## Consequences
 
 * Developers use HTTP in different ways, and we will have to choose an API style.
-* Using HTTP may limit performance, so we may want to support other protocols in future.
+* Using HTTP may limit performance, so we may want to support other (message-based) protocols in future.
