@@ -17,4 +17,5 @@ Proposed
 
 ## Consequences
 
-Action type documentation will describe parameters as input or output parameters.
+* Action type documentation will describe parameters as input or output parameters.
+* Activity pluggability will also have to deal with input and output.
