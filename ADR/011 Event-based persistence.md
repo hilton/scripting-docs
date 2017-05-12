@@ -18,3 +18,4 @@ Proposed
 
 * For a simpler consistent model, the engine will persist script deployments as events.
 * Querying execution states will require first reading events into a separate (generally in-memory) query model.
+* Complexity still comes from dealing with snapshots, caching and clustering, replication and failover.
