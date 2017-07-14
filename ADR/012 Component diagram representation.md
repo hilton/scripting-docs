@@ -8,7 +8,7 @@ Describing standard architecture patterns will help adoption.
 ## Decision
 
 In system architectures, as represented by component diagrams, we represent the engine a separate component, as with a database.
-We draw the engine as a cube, in the same way that component diagrams usually represent databases as cylinders.
+We draw the engine as a cube, in the same way that component diagrams represent databases as cylinders.
 
 ## Status
 

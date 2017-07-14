@@ -12,7 +12,7 @@ The core engine has three public APIs: for script deployment, execution runtime,
 
 ## Status
 
-Proposed
+Accepted
 
 ## Consequences
 

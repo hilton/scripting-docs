@@ -13,7 +13,7 @@ Script actions use their own context to name inputs and outputs, such as `reques
 
 ## Status
 
-Proposed
+Accepted
 
 ## Consequences
 

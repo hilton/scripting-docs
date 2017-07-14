@@ -16,7 +16,7 @@ Use JSON types for the script syntax model.
 
 ## Status
 
-Proposed
+Accepted
 
 ## Consequences
 

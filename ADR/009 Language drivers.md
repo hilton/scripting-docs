@@ -14,7 +14,7 @@ Write language drivers for Java and JavaScript (i.e. ECMAScript 2017) to start w
 
 ## Status
 
-Proposed
+Superseded by [ADR-13](013 JavaScript-based script language.md).
 
 ## Consequences
 

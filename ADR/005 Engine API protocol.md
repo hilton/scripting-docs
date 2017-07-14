@@ -1,4 +1,4 @@
-# Engine API protocol
+# ADR-5 Engine API protocol
 
 ## Context
 
@@ -12,7 +12,7 @@ The engine API uses HTTP by default.
 
 ## Status
 
-Approved
+Accepted
 
 ## Consequences
 

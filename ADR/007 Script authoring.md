@@ -14,7 +14,7 @@ Developers will use language drivers as the primary script authoring interface.
 
 ## Status
 
-Proposed
+Superseded by [ADR-13](013 JavaScript-based script language.md).
 
 ## Consequences
 
